@@ -6,4 +6,5 @@ Matplotlib - Visualisasi Data dengan Matplotlib
 3. Penambahan Text dengan Matplotlib
 4. Mengubah Properti Default dengan Matplotlib
 5. Mengatur Ticks dan Limits dengan Matplotlib
-5. Exercise terkait Matplotlib
+6. Exercise terkait Matplotlib
+7. Matplotlib - Pie Chart
