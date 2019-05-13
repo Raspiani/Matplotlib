@@ -8,3 +8,4 @@ Matplotlib - Visualisasi Data dengan Matplotlib
 5. Mengatur Ticks dan Limits dengan Matplotlib
 6. Exercise terkait Matplotlib
 7. Matplotlib - Pie Chart
+8. Matplotlib - Bar Chart
