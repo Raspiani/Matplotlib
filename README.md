@@ -11,3 +11,4 @@ Matplotlib - Visualisasi Data dengan Matplotlib
 8. Matplotlib - Bar Chart
 9. Matplotlib - Bar Plot dengan Looping dan List Comprehensif
 10. Matplotlib - Visualisasi Lengkap Tiga Plot DataFrame
+11. Matplotlib - Visualisasi Lengkap Tiga Plot DataFrame dengan Gabungan Legend
